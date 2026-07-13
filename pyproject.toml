@@ -29,7 +29,12 @@ line-length = 88
 # Enable Pyflakes (E), Rules from Flake8 (F), and Isort import sorting (I)
 select = ["E", "F", "I"]
 fixable = ["ALL"]
+ignore = ["E501"]
 
 [tool.ruff.format]
 quote-style = "double"
 indent-style = "space"
+
+[tool.pydocstringformatter]
+write = true
+max-line-length = 88

@@ -47,7 +47,7 @@ Each row corresponds to a record in `source_df`, and `dcr_1` is the distance to 
 
 To install the library run:
 ```bash
-pip install git+https://github.com/DavideScassola/torch-dcr.git
+pip install torch-dcr
 ```
 
 ## How mixed-type data is handled
