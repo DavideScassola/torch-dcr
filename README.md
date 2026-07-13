@@ -1,5 +1,6 @@
-# `torch-dcr`
+# `torch-dcr`: efficient DCR (Distance to Closest Record) for tabular data.
 
+[![PyPI version](https://img.shields.io/pypi/v/torch-dcr.svg)](https://pypi.org/project/torch-dcr/)
 [![CI](https://github.com/DavideScassola/torch-dcr/actions/workflows/ci.yml/badge.svg)](https://github.com/DavideScassola/torch-dcr/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
