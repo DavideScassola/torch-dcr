@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "torch-dcr"
-version = "0.1.0"
+version = "0.1.1"
 description = "A fast implementation of the DCR (Distance to Clostest Record) for tabular data."
 readme = "README.md"
 requires-python = ">=3.12"
